@@ -2716,7 +2716,7 @@ a.animated-button.style2:hover:after {
 	    max-width: 480px;
 	}
 	#section-testimonial1{
-		padding: 80px 0;
+		padding: 44px 0;
 	}
 	#section-subscribe1{
 		padding:80px 0;
@@ -3285,6 +3285,6 @@ body.scheme4 #section-footer {
 	transition: all 0.2s ease-in-out;
 }
 
-#section-pricing1{
+#section-pricing1,#section-clients1{
 display: none;
 }
